@@ -28,5 +28,8 @@
   "DESCRIPTION_SPECIAL": "Muzică specifică fiecărui sezon în parte, pentru hrana sufletului tău.",
   "REVIEW_MSG": "Lasa-ne feedback daca iti place Radio Aripi Spre Cer",
   "REVIEW_TITLE": "Lasa-ne un review de 5 stele",
-  "BTN_CANCEL": "Anulează"
+  "BTN_CANCEL": "Anulează",
+  "UPDATE_TITLE": "Update Necesar",
+  "UDATE_DESCRIPTION": "Nu rulezi ultima versiune a aplicatiei Radio Aripip Spre Cer. Poti downloada noua versiune disponibila.",
+  "DOWNLOAD_UPDATE_BTN": "Actualizează"
 }

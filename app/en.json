@@ -28,5 +28,8 @@
   "DESCRIPTION_SPECIAL": "Special music for your soul well-being.",
   "REVIEW_MSG": "Leave us feedback if you like Radio Aripi Spre Cer",
   "REVIEW_TITLE": "Leave us a 5-star review",
-  "BTN_CANCEL": "Cancel"
+  "BTN_CANCEL": "Cancel",
+  "UPDATE_TITLE": "Update Needed",
+  "UDATE_DESCRIPTION": "You're not running the latest version available. You can download the latest available version",
+  "DOWNLOAD_UPDATE_BTN": "Update"
 }
